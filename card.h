@@ -2,7 +2,7 @@
 
 class Card {
 private:
-  // 1-10, 11-J, 12-Q, 13-K, 14-A
+  // 9-10, 11-J, 12-Q, 13-K, 14-A
   int value;
   char suit;
   bool color;
